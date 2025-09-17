@@ -1,5 +1,8 @@
 # Testing-an-Open-Source-LLM
 
+![Example](phi3.png)
+
+
 In this repository we set and test `Phi-3-mini-4k-instruct`, a Microsoft's relatively small LLM. This model was released under the open source MIT license, allowing to free use, modify and integration in comercial software.
 
 ## Environment Setup
