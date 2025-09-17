@@ -1,7 +1,5 @@
 # Testing-an-Open-Source-LLM
 
-![Example](phi3.png)
-
 <img src="phi3.png" alt="SIGN" width="500" />
 
 
